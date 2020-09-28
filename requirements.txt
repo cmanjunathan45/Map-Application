@@ -1,0 +1,5 @@
+folium 
+webbrowser
+tkinter 
+requests
+bs4
